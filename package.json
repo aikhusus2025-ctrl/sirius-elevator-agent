@@ -1,0 +1,10 @@
+{
+  "name": "sirius-elevator-agent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "End-to-end test for the sirius-elevator Pollinations prompt agent (quest #14823).",
+  "scripts": {
+    "test": "node test.mjs"
+  }
+}
